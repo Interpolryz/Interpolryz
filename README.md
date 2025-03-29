@@ -6,8 +6,6 @@
 <br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&pause=1000&width=435&lines=Python+Developer" alt="Typing SVG" /></a></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=interpolryz&label=Profile%20views&color=0e75b6&style=flat" alt="interpolryz" /> </p>
-
 - 🔭 I’m currently working on [Alvera Service](https://alvera.info)
 
 - 🌱 I’m currently learning **Python**
@@ -39,4 +37,5 @@
 <br>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=interpolryz&label=Profile%20views&color=0e75b6&style=flat" alt="interpolryz" /> </p>
