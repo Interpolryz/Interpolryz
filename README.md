@@ -4,8 +4,7 @@
 <br><br>
 <hr style="border: none; height: 0.1px; background-color: gray;">
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer" alt="Typing SVG" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=interpolryz&label=Profile%20views&color=0e75b6&style=flat" alt="interpolryz" /> </p>
 
