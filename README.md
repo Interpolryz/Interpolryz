@@ -7,7 +7,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&pause=1000&width=435&lines=Python+Developer" alt="Typing SVG" /></a></p>
 <br><br><br>
 <p>
-🌍 Cologne, Germany
+🌍 Cologne, Germany <br>
 🎓 Student
 ⚡ I am using Python
 🎯 Python, html, css, react, typescript, sql
