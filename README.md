@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Interpol</h1>
-<h3 align="center">I am an self-taught Developer</h3>
+<br><br><br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=interpolryz&label=Profile%20views&color=0e75b6&style=flat" alt="interpolryz" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer" alt="Typing SVG" /></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=interpolryz&label=Profile%20views&color=0e75b6&style=flat" alt="interpolryz" /> </p>
 
 - 🔭 I’m currently working on [Alvera Service](https://alvera.info)
 
