@@ -3,7 +3,7 @@
 <img align="center" src="https://camo.githubusercontent.com/2b814705762b8fd15fe125bc4c663fc353563ab05a42c64af9ca60a3726fdcf6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d626c7572266865696768743d33303026636f6c6f723d6772616469656e7426746578743d57656c636f6d6526616e696d6174696f6e3d66616465496e266772616469656e74436f6c6f72733d4239393344362c384341364442">
 <br><br>
 <hr style="border: none; height: 0.1px; background-color: gray;">
-
+<br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&pause=1000&width=435&lines=Python+Developer" alt="Typing SVG" /></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=interpolryz&label=Profile%20views&color=0e75b6&style=flat" alt="interpolryz" /> </p>
