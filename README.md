@@ -9,8 +9,8 @@
 <p><font size="2">
 🌍 Cologne, Germany <br>
 🎓 Student <br>
-⚡ I am using Python <br>
-🎯 Python, html, css, react, typescript, sql <br>
+⚡ I am Developing <br>
+🎯 Python, html, css, react, typescript, javascript <br>
 </font></p><br><br>
 
 <h1>Programming languages</h1>
